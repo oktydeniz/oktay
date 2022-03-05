@@ -35,8 +35,8 @@
  
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="oktay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oktay&show_icons=true&hide_border=true&count_private=true&theme=react&hide=issues&include_all_commits=true" />
+  <img align="left" alt="oktydeniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oktydeniz&show_icons=true&hide_border=true&count_private=true&theme=react&hide=issues&include_all_commits=true" />
 
 </details>
 <!--
-**oktay/oktay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**oktydeniz/oktoktydenizay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
