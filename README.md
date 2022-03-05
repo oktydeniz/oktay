@@ -10,7 +10,7 @@
 
 <br>
 
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=rmya.visitor-badge)](https://GitHub.com/oktay/StrapDown.js/stargazers/)
+ [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=oktydeniz.visitor-badge)](https://GitHub.com/oktydeniz/StrapDown.js/stargazers/)
 
 ### Languages and Tools:
 <img align="left" alt="java" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
