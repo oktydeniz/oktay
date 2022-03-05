@@ -10,7 +10,8 @@
 
 <br>
 
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=oktydeniz.visitor-badge)](https://GitHub.com/oktydeniz/StrapDown.js/stargazers/)
+![](https://komarev.com/ghpvc/?username=oktydeniz&label=PROFILE+VIEWS)
+
 
 ### Languages and Tools:
 <img align="left" alt="java" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
@@ -39,4 +40,4 @@
 
 </details>
 <!--
-**oktydeniz/oktoktydenizay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**oktydeniz/oktydeniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
