@@ -22,10 +22,12 @@
 <img align="left" alt="objective-C" width="40px" height="40" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" />
 <img align="left" alt="dart" width="40px" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt="php" width="40px" height="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
+<img align="left" alt="laravel" width="40px" height="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
 <img align="left" alt="js" width="40px" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="spring-boot" width="40px" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />	
+<img align="left" alt="spring-boot" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+
 
 <br>
 <br />
