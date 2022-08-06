@@ -26,7 +26,7 @@
 <img align="left" alt="js" width="40px" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="spring-boot" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="spring-boot" width="40px" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
 
 
 <br>
