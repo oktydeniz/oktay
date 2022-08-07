@@ -18,6 +18,7 @@
 <img align="left" alt="kotlin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 <img align="left" alt="android" width="40px" height="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" />
 <img align="left" alt="jetpack-compose" width="40px" height="40" src="https://i2.wp.com/blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png?ssl=1" />
+<img align="left" alt="spring-boot" width="40px" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
 <img align="left" alt="objective-C" width="40px" height="40" src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" />
 <img align="left" alt="dart" width="40px" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
@@ -26,7 +27,7 @@
 <img align="left" alt="js" width="40px" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="python" width="40px" height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="spring-boot" width="40px" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+
 
 
 <br>
