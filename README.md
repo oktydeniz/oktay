@@ -37,11 +37,8 @@
 
 <br>
 <br />
-
 <br>
- 
 <details>
- 
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="oktydeniz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oktydeniz&show_icons=true&hide_border=true&count_private=true&theme=react&hide=issues&include_all_commits=true" />
