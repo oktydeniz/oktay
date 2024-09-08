@@ -24,7 +24,6 @@
 <img align="left" alt="dart" width="40px" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt="r" width="40px" height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
 <img align="left" alt="posgres" width="40px" height="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
-<img align="left" alt="laravel" width="40px" height="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
 <img align="left" alt="js" width="40px" height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="react" width="40px" height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
 <img align="left" alt="python" width="40px" height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
