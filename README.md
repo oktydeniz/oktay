@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Oktay and I'm a software devoloper, from FLYRL</p>
+<p align="left">My name is Oktay and I'm a software devoloper, working for FLYRL</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oktay-deniz-a11716160/) 
